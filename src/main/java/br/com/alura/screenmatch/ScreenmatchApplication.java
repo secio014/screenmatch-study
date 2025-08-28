@@ -20,7 +20,7 @@ public class ScreenmatchApplication implements CommandLineRunner {
 	}
 
     @Override
-    public void run(String... args) throws Exception {
+    public void run(String... args) {
         var consumoApi = new ConsumoAPI();
         var json = consumoApi.obterDados("https://www.omdbapi.com/?t=for+all+mankind&apikey=40d31cf5");
         System.out.println(json);
