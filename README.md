@@ -50,13 +50,13 @@ Execute a aplicação:
 ```
 
 ## 📚 Objetivos de Aprendizado
-Entender a estrutura básica de um projeto Spring Boot
+- Entender a estrutura básica de um projeto Spring Boot
 
-Praticar injeção de dependência com Spring
+- Praticar injeção de dependência com Spring
 
-Desenvolver habilidades em Java e programação orientada a objetos
+- Desenvolver habilidades em Java e programação orientada a objetos
 
-Compreender o funcionamento do Maven como ferramenta de build
+- Compreender o funcionamento do Maven como ferramenta de build
 
 ---
 
