@@ -101,6 +101,6 @@ src/
 4. Push: `git push origin feature/name `
 5. Open a Pull Request
 
-## 📄 License
+## 📄 Licenses
 
 MIT License (c)
