@@ -115,6 +115,6 @@ src/
 
 5. Abra um Pull Request
 
-## 📄 Licenças
+## 📄 Licença
 
 MIT License (c)
